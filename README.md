@@ -12,6 +12,7 @@ HDFS를 Java API로 실습한 프로젝트 입니다.
 ### ⚙️ 개발 환경
 - `Java 8`
 - `JDK 1.8.0`
+- `hadoop-3.3.2`
 - **IDE** : Visual Studio Code
 - **Framework** : Apache Maven 3.9.0
 
